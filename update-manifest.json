@@ -1,1 +1,5 @@
-{"version":"1.2.0","downloadUrl":"https://github.com/as4584/BakeryPOS-release/releases/download/v1.2.0/bakerypos-1.2.0.zip","releaseNotes":"Touch screen fix for quantity editor hold gesture"}
+{
+    "zip_url":  "https://github.com/as4584/BakeryPOS-release/releases/download/v1.3.0/bakerypos-v1.3.0.zip",
+    "version":  "1.3.0",
+    "release_notes":  "Startup popup to reprint stuck/pending receipt jobs"
+}
